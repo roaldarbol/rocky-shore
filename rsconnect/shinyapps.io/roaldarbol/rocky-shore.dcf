@@ -1,0 +1,13 @@
+name: rocky-shore
+title: rocky-shore
+username:
+account: roaldarbol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6115307
+bundleId: 5811123
+url: https://roaldarbol.shinyapps.io/rocky-shore/
+when: 1650313278.52471
+lastSyncTime: 1650313278.52472
+asMultiple: FALSE
+asStatic: FALSE
